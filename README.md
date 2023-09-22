@@ -1,14 +1,12 @@
 ### Hi there 👋, I'm Saif
 #### I am a Mobile App Developer (Flutter)
-![I am a Mobile App Developer (Flutter)](https://media-exp1.licdn.com/dms/image/C5616AQF_VhcqcAhDgQ/profile-displaybackgroundimage-shrink_350_1400/0/1659296687343?e=1665619200&v=beta&t=GxyqWBjQ5eKdtVFF_4I0GTQLChJOe1WVMi9uIjlxt5s)
+![I am a Mobile App Developer (Flutter)](https://css-tricks.com/wp-content/uploads/2022/08/flutter-clouds.jpg)
 
 
-Skills: Flutter/Firebase/ExpressJS
+Skills: Flutter/Firebase/Spring-boot/Django
 
-- 🔭 I’m currently working on SafiHealth 
-- 🌱 I’m currently learning MERN Stack 
+- 🔭 I’m currently working on jobdesk 
 - 👯 I’m looking to collaborate on Flutter projects 
-- 🤔 I’m looking for help with MERN Roadmap 
 - 💬 Ask me about Flutter 
 - 📫 How to reach me: https://www.linkedin.com/in/mdabusaif/ 
 - 😄 Pronouns: SAIF 
